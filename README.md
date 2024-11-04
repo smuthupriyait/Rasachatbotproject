@@ -1,4 +1,3 @@
-# Rasachatbotproject
 # Rasa Chatbot Project
 
 ## Table of Contents
@@ -34,7 +33,7 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/smuthupriyait/Rasachatbotproject.git
 
-**Create a Virtual Environment**
+***Create a Virtual Environment***
 Navigate into the project directory and create a virtual environment to isolate the dependencies:
 cd Rasachatbotproject
 python -m venv venv

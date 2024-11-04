@@ -35,15 +35,18 @@ git clone https://github.com/smuthupriyait/Rasachatbotproject.git
 
 ***Create a Virtual Environment***
 Navigate into the project directory and create a virtual environment to isolate the dependencies:
+
 cd Rasachatbotproject
 python -m venv venv
+
 Activate the Virtual Environment
 On Windows:
 venv\Scripts\activate
+
 On macOS/Linux:
 source venv/bin/activate
-**
-Install Dependencies**
+
+**Install Dependencies****
 Install the required packages listed in requirements.txt:
 pip install -r requirements.txt
 
